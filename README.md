@@ -1,5 +1,5 @@
-# vagrant-postgresql
-====================
+vagrant-postgresql
+==================
 
 My Vagrant configuration for Ubuntu 12.04 LTS 64-bit and PostgreSQL 9.3 database.
 
